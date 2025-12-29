@@ -1,4 +1,4 @@
-# IT Asset Management (Assignment Q24 - Roll No: 24)
+# IT Asset Management
 
 Console-based IT Asset Management app developed in **Java** using OOP concepts.  
 
